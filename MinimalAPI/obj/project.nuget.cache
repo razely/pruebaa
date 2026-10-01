@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "piHB4W0aWbU=",
+  "success": true,
+  "projectFilePath": "/home/francom/Documentos/grandt/MinimalAPI/MinimalAPI.csproj",
+  "expectedPackageFiles": [
+    "/home/francom/.nuget/packages/dapper/2.1.89/dapper.2.1.89.nupkg.sha512",
+    "/home/francom/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "/home/francom/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.2/microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "/home/francom/.nuget/packages/mysqlconnector/2.6.2/mysqlconnector.2.6.2.nupkg.sha512",
+    "/home/francom/.nuget/packages/microsoft.netcore.app.ref/8.0.31/microsoft.netcore.app.ref.8.0.31.nupkg.sha512",
+    "/home/francom/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.31/microsoft.aspnetcore.app.ref.8.0.31.nupkg.sha512",
+    "/home/francom/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.31/microsoft.netcore.app.host.linux-x64.8.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

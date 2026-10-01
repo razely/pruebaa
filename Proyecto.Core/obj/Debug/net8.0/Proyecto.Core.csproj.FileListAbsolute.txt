@@ -1,0 +1,13 @@
+/home/francom/Documentos/grandt/Proyecto.Core/bin/Debug/net8.0/Proyecto.Core.deps.json
+/home/francom/Documentos/grandt/Proyecto.Core/bin/Debug/net8.0/Proyecto.Core.dll
+/home/francom/Documentos/grandt/Proyecto.Core/bin/Debug/net8.0/Proyecto.Core.pdb
+/home/francom/Documentos/grandt/Proyecto.Core/obj/Debug/net8.0/Proyecto.Core.csproj.AssemblyReference.cache
+/home/francom/Documentos/grandt/Proyecto.Core/obj/Debug/net8.0/Proyecto.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/francom/Documentos/grandt/Proyecto.Core/obj/Debug/net8.0/Proyecto.Core.AssemblyInfoInputs.cache
+/home/francom/Documentos/grandt/Proyecto.Core/obj/Debug/net8.0/Proyecto.Core.AssemblyInfo.cs
+/home/francom/Documentos/grandt/Proyecto.Core/obj/Debug/net8.0/Proyecto.Core.csproj.CoreCompileInputs.cache
+/home/francom/Documentos/grandt/Proyecto.Core/obj/Debug/net8.0/Proyecto.Core.sourcelink.json
+/home/francom/Documentos/grandt/Proyecto.Core/obj/Debug/net8.0/Proyecto.Core.dll
+/home/francom/Documentos/grandt/Proyecto.Core/obj/Debug/net8.0/refint/Proyecto.Core.dll
+/home/francom/Documentos/grandt/Proyecto.Core/obj/Debug/net8.0/Proyecto.Core.pdb
+/home/francom/Documentos/grandt/Proyecto.Core/obj/Debug/net8.0/ref/Proyecto.Core.dll

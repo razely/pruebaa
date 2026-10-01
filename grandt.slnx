@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MinimalAPI/MinimalAPI.csproj" />
+  <Project Path="Proyecto.Core/Proyecto.Core.csproj" />
+</Solution>
